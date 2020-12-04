@@ -4,7 +4,7 @@
 ## Resumindo
 Esse aplicativo faz a requisição da <a target="_blank" href="https://g1.globo.com/">Página Inicial do G1</a> e então verifica, através de uma <a target="_blank" href="https://docs.microsoft.com/pt-br/dotnet/standard/base-types/regular-expressions">Regular Expression</a>, se uma determinada palavra, ou termo, está presente nessa página.
 
-### O sistema foi modelado utilizando as seguintes tecnologias: 
+## O sistema foi modelado utilizando as seguintes tecnologias: 
  - <a target="_blank" href="https://docs.microsoft.com/pt-br/visualstudio/get-started/csharp/tutorial-aspnet-core?view=vs-2019">C# .Net</a>;
  - <a target="_blank" href="https://docs.microsoft.com/pt-br/aspnet/web-forms/what-is-web-forms">Web Forms</a>.
 
